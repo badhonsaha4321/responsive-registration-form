@@ -17,7 +17,7 @@ This form adapts perfectly to different screen sizes including desktops, tablets
 
 ## Screenshots
 
-![Form Screenshot](screenshot.png)  
+![Form Screenshot](Screenshot.jpg)  
 
 ## Installation
 
