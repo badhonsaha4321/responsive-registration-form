@@ -1,22 +1,26 @@
-# Responsive Contact Form
+# Responsive Registration Form
 
-A clean and fully **responsive contact form** built using only **HTML** and **CSS**.  
-It looks great on desktops, tablets, and mobile devices.
+A modern and **fully responsive registration form** built using **HTML** and **CSS**.  
+This form adapts perfectly to different screen sizes including desktops, tablets, and mobile devices.
 
 ## Features
-- Fully **responsive design** for all screen sizes.  
-- Built with **HTML & CSS only** (no JavaScript).  
-- Simple and user-friendly interface.  
-- Easy to customize colors, fonts, and layout.  
+
+- **Responsive Design** – Works on all devices.
+- **Clean Layout** – Simple and user-friendly form structure.
+- **Modern Styling** – Attractive design using CSS only.
+- **Cross-browser Compatible** – Tested on major browsers.
 
 ## Technologies Used
-- HTML5  
-- CSS3 (Flexbox / Grid)
 
-## Screenshot
-![Screenshot](screenshot.png)  
+- **HTML5** – For structure and form elements.
+- **CSS3** – For styling and responsive design.
 
-## Installation (Run Locally)
+## Screenshots
+
+![Form Screenshot](screenshot.png)  
+
+## Installation
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/responsive-contact-form.git
+   git clone https://github.com/your-username/responsive-registration-form.git
